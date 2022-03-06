@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/data/
 .DS_Store
+作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/utils
