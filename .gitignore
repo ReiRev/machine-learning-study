@@ -131,3 +131,9 @@ dmypy.json
 .DS_Store
 作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/utils
 pytorch_official_tutorial/data/
+作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/weights/ssd300_mAP_77.43_v2.pth
+作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/weights/vgg16_reducedfc.pth
+作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/weights/ssd300_mAP_77.43_v2.pth
+作りながら学ぶPytorchによる発展ディープラーニング/1_1_image_classification/weights/vgg16_reducedfc.pth
+
+*.pth
